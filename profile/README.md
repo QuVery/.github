@@ -1,5 +1,3 @@
-# QuVery
-
 **Quality Verification Solutions for Game Development Asset Pipelines**
 
 ### For Artists 🎨
